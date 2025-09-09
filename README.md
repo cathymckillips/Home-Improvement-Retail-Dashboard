@@ -5,9 +5,7 @@ This project showcases an interactive Home Improvement Retail Dashboard built in
 
 ## 🔎 Key Features
 - **Contractor Reporting** – KPIs for Sales $, Installations, Service Tickets, and CSAT
-- **Retailer Hierarchy** – Division → Region → Store with role-based access examples
 - **Performance Comparisons** – YoY trends, Budget vs Actual, and Peer benchmarks (same program)
-- **Service & Quality Metrics** – Ticket volume, resolution days, First Call Resolution %, CSAT
 - **24 Months of Data** – Sep 2023 to Aug 2025 for reliable trend analysis
 
 ## 🛠️ Tools & Techniques

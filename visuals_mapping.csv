@@ -1,0 +1,15 @@
+Page,Visual,Fields/Measures,Typical Filters
+Contractor Overview,KPI Cards,"[Sales $], [Sales $ YoY %], [Installs], [Service Tickets], [CSAT]",All
+Contractor Overview,Combo Chart,"Axis: DimDate[Month]; Columns: [Sales $], [Sales $ LY], [Budget Sales $]",All
+Contractor Overview,Bar by Category,Axis: DimProduct[Category]; Values: [Sales $],All or Program
+Contractor Overview,Contractor Rank Table,"DimContractor[ContractorName], [Sales $], [CSAT], [Install Hours], [Contractor vs Program %]",Program
+Contractor Overview,Scatter,X: [Sales $]; Y: [CSAT]; Size: [Installs]; Legend: DimContractor[Program],All
+Retailer Dashboard,Slicers,"DimRetailer[Division], DimRetailer[Region], DimRetailer[RetailerID], DimProduct[Category], DimDate[Date]",All
+Retailer Dashboard,Matrix,"Rows: Division > Region > Store; Values: [Sales $], [Installs], [Service Tickets], [CSAT]; Conditional formatting vs retailer avg",Division/Region
+Retailer Dashboard,Bar vs Avg,Axis: Store; Values: [Sales $]; Line/Tooltip: Retailer Avg Sales $ (Region/Division),Region/Division
+Retailer Dashboard,Trend,"Axis: DimDate[Month]; Values: [Service Tickets], [Avg Resolution Days]",All
+Retailer Dashboard,Training Links,"DimRetailer[StoreName], DimRetailer[TrainingURL] (add column); Data category: Web URL",Store
+Service & Quality,Filters,"DimProduct[Category], DimContractor[ContractorName], DimDate[Date]",All
+Service & Quality,Trend,"Axis: DimDate[Month]; Values: [Service Tickets], [Avg Resolution Days] (secondary)",All
+Service & Quality,Bar FCR/CSAT,"Axis: DimContractor[ContractorName]; Values: [FCR %], [CSAT]",All
+Service & Quality,Details Table,"Columns: TicketID, OpenDate, CloseDate, ProductID, ContractorID, ResolutionDays, FirstCallResolution, SatisfactionScore",All

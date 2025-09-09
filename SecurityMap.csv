@@ -1,0 +1,8 @@
+UserEmail,Role,Division,Region,ScopeID
+admin@demo.com,Admin,,,
+east_dir@demo.com,RetailerDivision,East,,
+west_dir@demo.com,RetailerDivision,West,,
+ne_manager@demo.com,RetailerRegion,East,Northeast,
+sw_manager@demo.com,RetailerRegion,West,Southwest,
+store_s101@demo.com,RetailerStore,,,S101
+c001_mgr@demo.com,Contractor,,,C001

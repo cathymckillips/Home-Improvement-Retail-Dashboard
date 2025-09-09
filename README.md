@@ -12,6 +12,7 @@ This project showcases an interactive Home Improvement Retail Dashboard built in
 - Power BI for data modeling and interactive visualization
 -	Power Query for cleaning and transforming source files
 -	DAX for advanced calculations (e.g., YoY, Budget mapping, RLS lookups)
+-	Tabluar Editor 2 (Run Best Practice Analyzer, organize tables, columns, hierarchies, measures, and relationships quickly)
 -	CSV Data Model (sample fact and dimension tables provided)
 -	GitHub for portfolio documentation and sharing
 

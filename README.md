@@ -37,7 +37,7 @@ To demonstrate how retail and contractor performance data can be transformed int
 - `Contractor_Overivew.mp4` – Dashboard Video  
 - `README.md` — Project documentation (this file)
 
-## 📊 Sample Visuals
+## 📊 Sample Visual
 ![Dashboard Overview](HIRD.png)
 
 ## 📊 Sample Video Demonstration

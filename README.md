@@ -22,16 +22,16 @@ To demonstrate how retail and contractor performance data can be transformed int
 ##  Files Included
 
 - `Home_Improvement_Retail_Dashboard.pbix` — Power BI dashboard file  
-- `DimContractor.csv` — Sample or anonymized dataset  
-- `DimDate.csv` — Sample or anonymized dataset  
-- `DimProduct.csv` — Sample or anonymized dataset  
-- `DimRetailer.csv` — Sample or anonymized dataset  
-- `FactBudget.csv` — Sample or anonymized dataset  
-- `FactInstallations.csv` — Sample or anonymized dataset  
-- `FactSales.csv` — Sample or anonymized dataset  
-- `FactService.csv` — Sample or anonymized dataset  
-- `SecurityMap.csv` — Sample or anonymized dataset  
-- `visuals_mapping.csv` — Sample or anonymized dataset  
+- `DimContractor.csv` — Sample dataset  
+- `DimDate.csv` — Sample dataset  
+- `DimProduct.csv` — Sample dataset  
+- `DimRetailer.csv` — Sample dataset  
+- `FactBudget.csv` — Sample dataset  
+- `FactInstallations.csv` — Sample dataset  
+- `FactSales.csv` — Sample dataset  
+- `FactService.csv` — Sample dataset  
+- `SecurityMap.csv` — Sample dataset  
+- `visuals_mapping.csv` — Sample dataset  
 - `HIRD.png` — image
 - `Contractor_Overivew.mp4` – Dashboard Video  
 - `README.md` — Project documentation (this file)

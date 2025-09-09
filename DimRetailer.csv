@@ -1,0 +1,13 @@
+RetailerID,StoreName,Division,Region
+S100,NO Store 1,East,Northeast
+S101,NO Store 2,East,Northeast
+S102,NO Store 3,East,Northeast
+S103,SO Store 1,East,Southeast
+S104,SO Store 2,East,Southeast
+S105,SO Store 3,East,Southeast
+S106,NO Store 1,West,Northwest
+S107,NO Store 2,West,Northwest
+S108,NO Store 3,West,Northwest
+S109,SO Store 1,West,Southwest
+S110,SO Store 2,West,Southwest
+S111,SO Store 3,West,Southwest
